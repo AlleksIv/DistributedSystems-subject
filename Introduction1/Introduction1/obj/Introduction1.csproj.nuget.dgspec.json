@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\oleksandr.ivaniv\\source\\repos\\Introduction1\\Introduction1\\Introduction1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\oleksandr.ivaniv\\source\\repos\\Introduction1\\Introduction1\\Introduction1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oleksandr.ivaniv\\source\\repos\\Introduction1\\Introduction1\\Introduction1.csproj",
+        "projectName": "Introduction1",
+        "projectPath": "C:\\Users\\oleksandr.ivaniv\\source\\repos\\Introduction1\\Introduction1\\Introduction1.csproj",
+        "packagesPath": "C:\\Users\\oleksandr.ivaniv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oleksandr.ivaniv\\source\\repos\\Introduction1\\Introduction1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\oleksandr.ivaniv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\bin\Debug\netcoreapp2.1\Introduction1.deps.json
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\bin\Debug\netcoreapp2.1\Introduction1.runtimeconfig.json
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\bin\Debug\netcoreapp2.1\Introduction1.runtimeconfig.dev.json
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\bin\Debug\netcoreapp2.1\Introduction1.dll
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\bin\Debug\netcoreapp2.1\Introduction1.pdb
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\obj\Debug\netcoreapp2.1\Introduction1.csprojAssemblyReference.cache
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\obj\Debug\netcoreapp2.1\Introduction1.csproj.CoreCompileInputs.cache
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\obj\Debug\netcoreapp2.1\Introduction1.AssemblyInfoInputs.cache
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\obj\Debug\netcoreapp2.1\Introduction1.AssemblyInfo.cs
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\obj\Debug\netcoreapp2.1\Introduction1.dll
+C:\Users\oleksandr.ivaniv\source\repos\Introduction1\Introduction1\obj\Debug\netcoreapp2.1\Introduction1.pdb
