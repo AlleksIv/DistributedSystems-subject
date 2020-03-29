@@ -1,7 +1,7 @@
 Distributed Systems Seminars: 6. Message Queues 
 =====================================
 https://github.com/apache/activemq/tree/master/activemq-web-demo
-=====================================
+--------
 
 Building
 --------
