@@ -1,4 +1,4 @@
-Distributed Systems Seminars: 6. REST
+Distributed Systems Seminars: 5. REST
 ========
 Previously it was done as non REST`ful API as my own project
 now reworked as REST
