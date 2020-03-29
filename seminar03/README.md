@@ -1,7 +1,8 @@
 Distributed Systems Seminars: 3. Remote Method Invocation 
 ========
 
-disclaimer - used this as example - https://github.com/xPryds/JavaRMI
+https://github.com/xPryds/JavaRMI
+--------
 
 Command List:
 - */list* : show the list of active channels
