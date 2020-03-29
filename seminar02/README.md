@@ -7,3 +7,5 @@ HOW TO RUN
 - Open csproj file. 
 - Install all refs.
 - Build`n`Run
+
+Really simpler then Java enviroment setup tbh
