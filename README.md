@@ -1,3 +1,1 @@
-# DistributedSystems-subject
-TR-41-sbj
-“HELLO WORLD” text  (+1 point); 
+Create a branch “test” with a different README.md file (+1 point); 
