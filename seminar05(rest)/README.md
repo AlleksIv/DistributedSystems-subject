@@ -10,16 +10,16 @@ ImageStats API REST
 ALL METHODS RETURN'S BASE64 REPRESENTATION OF PICTURE
 
 - Statistic of used colors by url: 
-- POST ​ /GetStatsByUrl body: { "url":"https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_ cover_580.jpg" } 
+ POST ​ /GetStatsByUrl body: { "url":"https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_ cover_580.jpg" } 
 
 - Statistic of used colors by base64: 
-- POST  ​ /GetStatsByBase64 body: { "base64string":"/9j/4AAQSkZJRgABAQEASABIAAD/............." } 
+ POST  ​ /GetStatsByBase64 body: { "base64string":"/9j/4AAQSkZJRgABAQEASABIAAD/............." } 
 
 - Swap color in image by url(returns image in base64): 
-- POST  ​ /SwapColorsByUrl body: { "url":"https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_ cover_580.jpg", "from":"Indigo", "to":"Red" } 
+ POST  ​ /SwapColorsByUrl body: { "url":"https://s.ftcdn.net/v2013/pics/all/curated/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_ cover_580.jpg", "from":"Indigo", "to":"Red" } 
 
 - Swap color in image by base64 string(returns image in base64): 
-- POST /SwapColorsByBase64 body: { "base64string":"/9j/4AAQSkZJRgABAQEASABIAAD/............." "from":"Indigo", "to":"Red" } 
+ POST /SwapColorsByBase64 body: { "base64string":"/9j/4AAQSkZJRgABAQEASABIAAD/............." "from":"Indigo", "to":"Red" } 
  
 List of available colors:  
 Red, Orange, Yellow, Green, Blue, Indigo, Violet 
