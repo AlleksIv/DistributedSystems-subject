@@ -25,7 +25,7 @@ Or for Linux:
 
 After starting ActiveMQ, you can run the chat programs in OTHER terminals.  Each terminal should be set to the JMS example directory.  To run the example, in each terminal type:
 
-    $ java -cp build/libs/simple-jms-example-0.1.jar:: com.github.rnowling.simplejms.CLIDriver TopicCF topic1 {username}
+    $ java -cp build/libs/simple-jms-example-0.1.jar:: simplejms.CLIDriver TopicCF topic1 {username}
 
 where `{username}` is the user's name.
 
