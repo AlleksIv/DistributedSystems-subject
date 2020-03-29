@@ -30,7 +30,7 @@ jar {
 
     manifest {
 	attributes 'Title': 'Simple JMS Example', 'Version': version
-	attributes 'Main-Class': 'com.github.rnowling.simplejms.CLIDriver'
+	attributes 'Main-Class': 'simplejms.CLIDriver'
     }
 }
 
