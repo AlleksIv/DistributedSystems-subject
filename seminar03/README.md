@@ -10,11 +10,12 @@ Command List:
 
 
 
-Done on Linux Virtual Machine because it`s easier
-How to run
+Done on Linux Virtual Machine because it's easier so instruction is for linux too
+
+- Download/clone archive and unpack it to folder
 
 Open a CLI and digit:
-`rmiregistry` it`s like npm from task 01 but
+`rmiregistry` it's like npm from task 01 but
 
 Then open one terminal for server, as many terminals you want for clients:
 
