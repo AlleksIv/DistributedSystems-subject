@@ -1,0 +1,84 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+ul {
+    transform: rotate(180deg);
+}
+
+.navbar-brand {
+    margin: auto;
+    text-align: center;
+    text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+    color: #333;
+    opacity: 0.9;
+    font: 700 30px 'Bitter';
+}
+
+    ul > li {
+        transform: rotate(-180deg);
+    }
+
+.common-button {
+    outline: none;
+    margin-top: 20px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    background-color: #e7e7e7; color: black;
+    padding: 8px 10px;
+    margin-top: 25px;
+    border-radius: 4px 4px;
+    margin-left: 20px;
+    min-width: 40px;
+    max-width: 100px;
+    transition: all ease-in-out 0.3s;
+}
+    .common-button:hover {
+        text-decoration: none;
+    }
+.button-wrapper{
+    display: flex;
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.button-wrapper:last-child{
+    margin-left: 20px;
+}
+
+
+
+.mainpage-list {
+    background: content-box #fafafa;
+}
+
+.del {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    color: red;
+    outline: none;
+}
+    .del:focus {
+        border: none;
+    }

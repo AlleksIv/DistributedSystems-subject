@@ -1,0 +1,20 @@
+﻿@model IEnumerable<AChat_Finaly_.Models.StoryModel>
+@{
+    ViewBag.Title = "Chats";
+}
+<h2>List of chats</h2>
+
+<table class="table">
+    @foreach (var item in Model)
+     {
+        <tr>
+            <td>
+                Chat @Html.DisplayFor(modelItem => item.ChatId)
+            </td>
+            <td>
+            <a href="/Home/Chat">Go to chat</a>
+            </td>
+        </tr>
+     }
+</table>
+
